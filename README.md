@@ -2,7 +2,7 @@
 
 This repository contains three code examples written in C that demonstrate different aspects of user input handling.
 
-1. `lesson1_userInput.c`
+1. `lesson1_userInput.c`[lesson1_userInput.c](lesson1_userInput.c)
    - This code example focuses on receiving and processing user inputs using if-else statements.
    - It includes the `get_int` function for receiving an integer input from the user with a prompt.
    - The `main` function demonstrates the use of if-else statements to handle different user inputs and perform conditional operations based on the input values.
@@ -15,7 +15,7 @@ This repository contains three code examples written in C that demonstrate diffe
    - Each input is obtained with a prompt and then printed on the console.
    - The code also determines the largest number among the inputs and displays it.
 
-3. `lesson3_characterAgreement.c`[lesson2_largestNumber.c](lesson2_largestNumber.c)
+3. `lesson3_characterAgreement.c`[lesson3_characterAgreement.c](lesson3_characterAgreement.c)
    - This code example showcases handling character agreement using if-else statements.
    - The user is prompted to input a character indicating their agreement or disagreement.
    - Based on the input, the code prints a corresponding message.
