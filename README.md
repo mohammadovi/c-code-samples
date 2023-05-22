@@ -2,12 +2,12 @@
 
 This repository contains two code examples written in C: `lesson2_largestNumber.c` and `lesson1_userInput.c`, which demonstrate different aspects of user input handling.
 
-### `lesson2_largestNumber.c`
-
-This code demonstrates how to receive multiple user inputs with a single line of code using the `get_int` function. It includes the function `get_int` that allows the user to input an integer value with a prompt. The `main` function showcases the usage of the `get_int` function by receiving three integer inputs: `x`, `y`, and `z`. Each input is obtained with a prompt and then printed on the console. The code also determines the largest number among the inputs and displays it.
 
 ### `lesson1_userInput.c`
+This code demonstrates how to receive multiple user inputs with a single line of code using the `get_int` function. It includes the function `get_int` that allows the user to input an integer value with a prompt. The `main` function showcases the usage of the `get_int` function by receiving three integer inputs: `x`, `y`, and `z`. Each input is obtained with a prompt and then printed on the console. The code also determines the largest number among the inputs and displays it.
 
+
+### `lesson2_largestNumber.c`
 This code focuses on receiving and processing user inputs using `if-else` statements. It includes the `get_int` function for receiving an integer input from the user with a prompt. The `main` function demonstrates the use of `if-else` statements to handle different user inputs and perform conditional operations based on the input values. By following the prompts, the user can enter values for `x`, `y`, and `z`, and the code determines the largest number among the inputs and displays it.
 
 ## Usage
@@ -36,13 +36,12 @@ This code example is created and maintained by [mohammadahmadi].
 ## مثال چند ورودی کاربر
 
 این مخزن شامل دو نمونه کد به زبان C است: `lesson2_largestNumber.c` و `lesson1_userInput.c` که نحوه مدیریت ورودی کاربر را نشان می‌دهند.
-
-### `lesson2_largestNumber.c`
+### `lesson1_userInput.c`
 
 این کد نحوه دریافت چند ورودی کاربر را با یک خط کد با استفاده از تابع `get_int` نشان می‌دهد. شامل تابع `get_int` است که به کاربر اجازه می‌دهد یک عدد صحیح را با یک پیام دریافت کند. تابع `main` نحوه استفاده از تابع `get_int` را با دریافت سه ورودی عدد صحیح `x`، `y` و `z` نشان می‌دهد. هر ورودی با یک پیام دریافت می‌شود و سپس روی کنسول چاپ می‌شود. همچنین، کد بزرگترین عدد را میان ورودی‌ها تشخیص می‌دهد و آن را نمایش می‌دهد.
 
-### `lesson1_userInput.c`
 
+### `lesson2_largestNumber.c`
 این کد بر روی دریافت و پردازش ورودی‌های کاربر با استفاده از عبارات `if-else` تمرکز دارد. شامل تابع `get_int` برای دریافت یک ورودی عدد صحیح از کاربر با یک پیام است. تابع `main` نشان می‌دهد که چگونه با استفاده از عبارات `if-else` با ورودی‌های کاربر مختلف برخورد کرده و عملیات شرطی بر اساس مقادیر ورودی را انجام می‌دهد. با دنبال کردن پیام‌ها، کاربر می‌تواند مقادیری برای `x`، `y` و `z` وارد کند و کد بزرگترین عدد را میان ورودی‌ها تشخیص داده و نمایش می‌دهد.
 
 ## روش استفاده
