@@ -15,7 +15,7 @@ This repository contains three code examples written in C that demonstrate diffe
    - Each input is obtained with a prompt and then printed on the console.
    - The code also determines the largest number among the inputs and displays it.
 
-3. `lesson3_characterAgreement.c`[lesson1_characterAgreement.c](link-to-lesson1_characterAgreement.c)
+3. `lesson3_characterAgreement.c`[lesson1_characterAgreement.c](lesson1_characterAgreement.c)
    - This code example showcases handling character agreement using if-else statements.
    - The user is prompted to input a character indicating their agreement or disagreement.
    - Based on the input, the code prints a corresponding message.
