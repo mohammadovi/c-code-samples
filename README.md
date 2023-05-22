@@ -8,14 +8,14 @@ This repository contains three code examples written in C that demonstrate diffe
    - The `main` function demonstrates the use of if-else statements to handle different user inputs and perform conditional operations based on the input values.
    - By following the prompts, the user can enter values for `x`, `y`, and `z`, and the code determines the largest number among the inputs and displays it.
 
-2. `lesson2_largestNumber.c`
+2. `lesson2_largestNumber.c`[lesson2_largestNumber.c](lesson2_largestNumber.c)
    - This code example demonstrates how to receive multiple user inputs with a single line of code using the `get_int` function.
    - The `get_int` function allows the user to input an integer value with a prompt.
    - The `main` function showcases the usage of the `get_int` function by receiving three integer inputs: `x`, `y`, and `z`.
    - Each input is obtained with a prompt and then printed on the console.
    - The code also determines the largest number among the inputs and displays it.
 
-3. `lesson3_characterAgreement.c`[lesson1_characterAgreement.c](lesson1_characterAgreement.c)
+3. `lesson3_characterAgreement.c`[lesson2_largestNumber.c](lesson2_largestNumber.c)
    - This code example showcases handling character agreement using if-else statements.
    - The user is prompted to input a character indicating their agreement or disagreement.
    - Based on the input, the code prints a corresponding message.
